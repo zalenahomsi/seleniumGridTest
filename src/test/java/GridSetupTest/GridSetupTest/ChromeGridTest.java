@@ -1,4 +1,4 @@
-package GridTest;
+package GridSetupTest.GridSetupTest;
 
 import java.net.MalformedURLException;
 import java.net.URL;
